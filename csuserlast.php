@@ -1,6 +1,6 @@
 <?php
 
-/* Plugin Name: User Last Login
+/* Plugin Name: UserLast
  * Description: The plugin shows the date and time of the user's last login.
  * Version: 1.0
  * Author: Code Sprinters sp. z o.o.
