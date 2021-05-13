@@ -2,6 +2,7 @@
 Contributors: codesprinters
 Tags: userlast, user, login, last, time, history
 Requires at least: 5.7.1
+Tested up to: 5.7.1
 Requires PHP: 7.4
 Stable tag: 1.0
 License: GPLv2 or later
